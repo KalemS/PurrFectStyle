@@ -5,7 +5,7 @@ Kalem Schrock: kalems@iastate.edu
 
 Project Utilized: HTML, CSS, Javascript, Node, React, Express, Bootstrap, and MongoDB
 
-Software engineering course project designed to sell clothes through a video game design. Our design involves working with a frontend involving a game where moving your avatar over certain parts of the map will give you the option to go to certain parts of the store. For this project, we emphasized six web pages involving our MongoDB database. Giving the player/customer the option to visit six different options. They are as follows:
+Software engineering course project inspired by Doja Cat's website. Our website is designed to sell clothes through a video game design. Our design involves working with a frontend involving a game where moving your avatar over certain parts of the map will give you the option to go to certain parts of the store. For this project, we emphasized six web pages involving our MongoDB database. Giving the player/customer the option to visit six different options. They are as follows:
 
 1) Show All Products => Page to view all products
 2) Show One Product => View one product at a time
